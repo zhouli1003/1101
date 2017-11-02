@@ -11,7 +11,7 @@
 	      		</div>
 	      		<div class="mp-header-right" mp-role="right">
 	      			<a href="/touch/toNewCityList.htm" title="城市选择" class="mp-linkarea">
-	      				<span class="mp-nav-city">北京
+	      				<span class="mp-nav-city">1102 修改修改
 	      					<i class="test"> </i>
 	      				</span>
 	      			</a>
